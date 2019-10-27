@@ -14,3 +14,5 @@ class Dog
   
 end 
 
+butch = Dog.new 
+butch.bark 
